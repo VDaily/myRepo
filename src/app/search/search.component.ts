@@ -11,7 +11,7 @@ export class SearchComponent implements OnInit {
 
   ngOnInit(): void {
   }
-  onClickAnother(): void {
+  onClickAnother123432(): void {
     console.log(123);
   }
 
