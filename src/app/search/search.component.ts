@@ -7,6 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class SearchComponent implements OnInit {
   private Test?: any;
+  private Hi?: any
   constructor() { }
 
   ngOnInit(): void {
